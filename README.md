@@ -1,0 +1,1 @@
+Pada Repository ini ada 3 Folder yang tidak terupload yaitu extracted, results, dan uploads. Ketika clone Repository ini tolong buatkan 3 folder tersebut supaya tidak terjadi ERROR yang tidak di-inginkan!
